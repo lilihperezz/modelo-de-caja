@@ -1,0 +1,25 @@
+div p{
+	color: black;
+    text-align: center;
+	border:2px dashed #477921;
+	margin-left:40px;
+	margin-right:20px;
+	margin-bottom:30px ;
+	margin-top: 30px;
+	padding:10px 20px;
+	background-color:#FFFFFF;
+	}
+
+div{
+	margin-left:90px;
+	margin-right:40px;
+	margin-bottom:40px ;
+	margin-top:20px ;
+	border-top:12px solid #9900FF;
+	border-right:5px solid #9900FF;
+	border-bottom:12px solid #9900FF;
+	border-left:5px solid #9900FF;
+	background-color:#F9CB9C;
+	padding: 1px 5px 25px 40px;
+
+	}
